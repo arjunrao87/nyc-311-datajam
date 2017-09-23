@@ -4,6 +4,6 @@
 
 Read in the following order
 
-- [collection.md] (collection.md)
-- [analysis.md] (analysis.md)
-- [usage.md] (usage.md)
+- [proposals/collection.md] (collection.md)
+- [proposals/analysis.md] (analysis.md)
+- [proposals/usage.md] (usage.md)
