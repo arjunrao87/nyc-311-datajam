@@ -12,3 +12,4 @@
 - Get basic demographic information about the person making the complaint ( keeping privacy in account )
 - Smartphone app to collect the data or texting to 311or having a web portal to get data or having Chatbot/Surveymonkey/Typeform to collect 311's
 - Each complaint should be a story and not a line item. Each complaint should have things like avatars, people in charge/involved, stickers, comments, reactions ,photos, attachments, etc. ( Like a github graphql schema, links to other issues. This should be like gitlab/github issues page )
+- Unstructured data 
