@@ -1,6 +1,18 @@
-service requests by external partners
-actionable tickets by some nyc agency
-source/channel
-311 data - 10% complaint line
-call center inquiry line 311 data biggest dataset
+- service requests by external partners
+- source/channel
+- 311 data - 10% complaint line
+- call center inquiry line 311 data biggest dataset
  - correlating inquiry data with 311 data so that it can be said what needs to be avoided
+ - Finding mean/median/mode, bell curve etc
+ - Analyzing large datasets - https://www.dataquest.io/blog/python-json-tutorial/
+ - Use Bokeh, Agate, Pandas, foliage, leaflet  in jupyter
+ - https://data.cityofnewyork.us/OData.svc/erm2-nwe9 ( this is paginated .Look at next at the end )
+ - https://franchise.cloud/app/
+ -Datasets other than 311?
+ - https://data.cityofnewyork.us/City-Government/311-Call-Center-Inquiry/tdd6-3ysr
+ - Look at the datasets at the end of this page - https://docs.google.com/document/d/15hrNVWV0hm7lYjdQFEJvZZpNDCETEs_wc8mkIv3fzrk/edit#
+ - NYC github - https://github.com/CityOfNewYork
+ - Correlate with 311 data from other cities and see what other cities do that nyc can do
+ - cross link 311 and inquiry to see dropped requests
+ - cross agency
+ - machine learning / tagging
